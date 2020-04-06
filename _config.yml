@@ -24,3 +24,5 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
+
+theme: jekyll-theme-minimal
